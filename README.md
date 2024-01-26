@@ -16,11 +16,7 @@
 
 <img src="https://img.shields.io/badge/Xcode-%23007acc.svg?logo=xcode&logoColor=white&style=flat-square" alt="Xcode" /> <img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="Github" /> 
 
-</p>
-
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyJ-CN&hide=c%2B%2B,HTML&layout=compact&theme=blue-green&count_private=true&include_all_commits=true" />
-
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyJ-CN&layout=compact&count_private=true)](https://github.com/SunnyJ-CN/github-readme-stats)
 
 <!---
 SunnyJ-CN/SunnyJ-CN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

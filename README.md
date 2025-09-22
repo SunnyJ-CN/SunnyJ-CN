@@ -1,7 +1,7 @@
 [![Github Stars](https://img.shields.io/github/stars/danerlt?color=faf408&label=github%20stars&logo=github)](https://github.com/SunnyJ-CN)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SunnyJ-CN)
 
-# Swifter
+# iOS Developer && Swifter
 
 ## Tech Stack
 
